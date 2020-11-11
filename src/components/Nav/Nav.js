@@ -6,7 +6,7 @@ import "./Nav.css";
 const Navigation = (props, context) => (
   <div className="navigation">
     <div className="inner">
-      <Link to="/">Shopping Mallss</Link>
+      <Link to="/">Shopping </Link>
       <Link to="/cart">Cartzz</Link>
     </div>
   </div>
